@@ -5,3 +5,4 @@ install: true
  
 script:
   - make
+  - make test
